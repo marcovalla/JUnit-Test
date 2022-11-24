@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumerosEnterosTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-10-19T15:47:27" hostname="DESKTOP-RV2M5EP" time="0.051">
+<testsuite name="NumerosEnterosTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-04T01:22:16" hostname="DESKTOP-RV2M5EP" time="0.09">
   <properties/>
-  <testcase name="enteroPosTest()" classname="NumerosEnterosTest" time="0.032"/>
-  <testcase name="reemplazarPrimeraTest()" classname="NumerosEnterosTest" time="0.002"/>
-  <testcase name="reemplazarTest()" classname="NumerosEnterosTest" time="0.001"/>
-  <testcase name="longitudTest()" classname="NumerosEnterosTest" time="0.002"/>
-  <testcase name="obtenerArregloTest()" classname="NumerosEnterosTest" time="0.002"/>
-  <testcase name="establecerPosTest()" classname="NumerosEnterosTest" time="0.002"/>
-  <testcase name="intercambiarTest()" classname="NumerosEnterosTest" time="0.0"/>
-  <testcase name="reemplazarUltimaTest()" classname="NumerosEnterosTest" time="0.002"/>
+  <testcase name="intercambiarTest()" classname="NumerosEnterosTest" time="0.09"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
